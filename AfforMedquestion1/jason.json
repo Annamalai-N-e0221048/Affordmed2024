@@ -1,0 +1,6 @@
+{
+    "numbers": [2, 4, 6, 8],
+    "windowPrevState": [],
+    "windowCurrState": [2, 4, 6, 8],
+    "avg": 5.00
+}
